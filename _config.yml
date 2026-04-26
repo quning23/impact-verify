@@ -1,0 +1,14 @@
+title: NingClaw Software Workflow Lab
+description: Reviewer-facing GitHub Pages site for overseas SaaS and workflow evaluations.
+baseurl: ""
+url: ""
+markdown: kramdown
+permalink: pretty
+collections:
+  posts:
+    output: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
