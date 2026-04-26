@@ -19,6 +19,9 @@ This site focuses on practical evaluation: where a tool fits, where it breaks, w
 ## Editorial standard
 We do not claim fake traffic, fake revenue, or a fake team. We publish what we can verify, and we mark opinion as opinion.
 
+## Impact verification
+Impact-Site-Verification: 075869be-a69d-430d-a475-9bd9bc939169
+
 ## Start here
 - [About](../about/)
 - [Affiliate disclosure](../affiliate-disclosure/)
