@@ -12,6 +12,7 @@ This section collects workflow-first evaluations of overseas SaaS tools for solo
 - [Frase Review — Content Research & SEO Optimization Layer](./frase-review/) — A deep look at Frase's role as a research and optimization tool, not just another AI writer
 - [Writesonic Review — AI Writing That Fixes the Blank Page Problem](./writesonic-review/) — Why Writesonic works as a drafting accelerator for solo operators
 - [Systeme.io Review — All-in-One Marketing Platform for Solo Operators](./systeme-io-review/) — Can one platform really replace five subscriptions? I tested it.
+- [Systeme.io vs Frase — Solo Founder's Toolkit Guide](./systeme-vs-frase-solo-toolkit/) — Decision framework: when to use each, how they complement each other
 
 ## Workflow Guides
 - [AppSumo AI tools workflow guide](./appsumo-ai-tools-workflow-guide/)

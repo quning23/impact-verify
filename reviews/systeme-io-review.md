@@ -51,6 +51,8 @@ The visual automation builder uses triggers, conditions, and actions. Trigger em
 - Sub-accounts for agencies
 - Physical product sales
 
+> **Screenshot idea:** Systeme.io pricing table showing Free, Startup ($27), Webinar ($47), and Unlimited ($97) plans side by side. This is the single most compelling visual for a budget-conscious solo operator.
+
 ## Pricing: The Real Differentiator
 
 Systeme.io's pricing structure is unusual because the feature set does not change between plans. Every plan has access to every feature. The only differences are limits:
@@ -108,4 +110,4 @@ If you are a solo operator managing 3+ separate marketing tools and your monthly
 
 This review contains affiliate links. If you sign up through these links, I may earn a commission at no additional cost to you. I have personally tested Systeme.io and only recommend it because it fits my workflow as a solo operator. Editorial independence is always maintained.
 
-**Start your free Systeme.io account:** [https://systeme.io](https://systeme.io) *(register with email to receive your referral link)*
+**Start your free Systeme.io account:** [https://systeme.io/?sa=sa02702213450cf7b304edd2b0b7f00ba6d131cffa](https://systeme.io/?sa=sa02702213450cf7b304edd2b0b7f00ba6d131cffa) *(60% lifetime recurring commissions)*

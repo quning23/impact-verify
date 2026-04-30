@@ -17,9 +17,10 @@ This site focuses on practical evaluation: where a tool fits, where it breaks, w
 - clear affiliate disclosure on every relevant page
 
 ## Featured Reviews
-- [Frase Review](/reviews/frase-review/) — Content research & SEO optimization, not just another AI writer
-- [Writesonic Review](/reviews/writesonic-review/) — AI drafting that fixes the blank page problem
 - [Systeme.io Review](/reviews/systeme-io-review/) — All-in-one marketing platform tested by a solo operator
+- [Frase Review](/reviews/frase-review/) — Content research & SEO optimization, not just another AI writer
+- [Systeme.io vs Frase — Solo Founder's Toolkit](/reviews/systeme-vs-frase-solo-toolkit/) — When each belongs in your toolkit and how they complement each other
+- [Writesonic Review](/reviews/writesonic-review/) — AI drafting that fixes the blank page problem
 
 ## Editorial standard
 We do not claim fake traffic, fake revenue, or a fake team. We publish what we can verify, and we mark opinion as opinion.
